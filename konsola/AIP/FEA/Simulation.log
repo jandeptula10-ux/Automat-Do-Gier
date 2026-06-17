@@ -1,0 +1,9 @@
+﻿Study Static Analysis:1 started: 21.11.2022, 11:51:52
+Number of configurations: 1
+Default mesh: 241157 elements, 391513 nodes
+Solution time 49.6s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 21.11.2022, 11:53:23
+Total time 0:01:31
+
