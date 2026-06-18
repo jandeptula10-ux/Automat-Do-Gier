@@ -4,13 +4,13 @@ Witam w oficjalnym repozytorium projektu automatu do gier. Repozytorium zawiera 
 
 ---
 
-> 💡 **Instrukcja nawigacji:** Po otwarciu poniższego linku, możesz swobodnie obracać model 3D całej maszyny. Użyj drzewa operacji (BOM) po lewej stronie ekranu – **nakierowanie kursora myszy (hover) na dowolny element z listy podświetli go bezpośrednio na modelu.**
+> 💡 **Instrukcja nawigacji:** Po otwarciu poniższego linku, możesz swobodnie obracać model 3D całej maszyny. Użyj drzewa operacji po lewej stronie ekranu – **nakierowanie kursora myszy na dowolny element z listy podświetli go bezpośrednio na modelu.**
 
 ### 🔗 [KLIKNIJ TUTAJ, ABY OTWORZYĆ INTERAKTYWNY MODEL 3D W PRZEGLĄDARCE](https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3ODE3MTU0MzZfNmUxZGRkZTQtMzYxZi00NTI3LWJkZjktMTA5YzNlNmUwY2QxLmlwdA?sheetId=ZTk1MjU1NzMtMDU2MC00YTAyLTk5YjItODJmOTcyMzI3NDM4)
 
 ---
 
-## 📂 Pliki Główne (Złożenie)
+## 📂 Pliki Główne
 W głównym katalogu repozytorium znajdują się pliki spajające cały projekt:
 * 🛠️ **`konsola.iam`** - Główne złożenie maszyny.
 * ⚙️ **`konsola.ipj`** - Plik projektu środowiska Inventor.
