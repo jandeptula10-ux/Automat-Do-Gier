@@ -49,7 +49,7 @@ Poniżej znajduje się wizualne zestawienie wszystkich zaprojektowanych element�
 ---
 
 ### 🛠️ Elementy Dodatkowe (Folder: `/elementy_dodatkowe`)
-| Podgląd | Pliki (URL) | Krótki Opis Elementu |
+| Podgląd | Plik | Opis Elementu |
 | :---: | :--- | :--- |
 | <img src="img/monitor.png" width="100"> | [monitor.ipt](./elementy_dodatkowe/monitor.ipt) | Model 3D użytego monitora LCD (element referencyjny). |
 | <img src="img/zawias-L.png" width="100"> | [zawias-lewy.ipt](./elementy_dodatkowe/zawias-lewy.ipt) | Lewy zawias drzwiczek frontowych. |
