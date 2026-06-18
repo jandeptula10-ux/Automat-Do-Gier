@@ -44,7 +44,7 @@ Poniżej znajduje się wizualne zestawienie wszystkich zaprojektowanych element�
 ### ➡️ Tył Maszyny (Folder: `/Tyl`)
 | Podgląd | Plik | Opis Elementu |
 | :---: | :--- | :--- |
-| <img src="img/G.png" width="100"> | [CUT PART G.ipt](./Tyl/CUT%20PART%20G.ipt) <br> [CUT PART G-01.ipt](./Tyl/CUT%20PART%20G-01.ipt) | **Dolny panel tylny:** Płyta zamykająca plecy automatu. |
+| <img src="img/G.png" width="100"> | [CUT PART G.ipt](./Tyl/CUT%20PART%20G.ipt) <br> [CUT PART G-01.ipt](./Tyl/CUT%20PART%20G-01.ipt) | **Panel tylny:** Płyta zamykająca automat od tyłu. |
 
 ---
 
